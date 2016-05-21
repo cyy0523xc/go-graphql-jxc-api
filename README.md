@@ -1,1 +1,6 @@
-# go-graphql-jxc-api
+# 基于Golang与GraphQL的进销存API
+
+
+
+
+
